@@ -4,7 +4,7 @@
 
 
 [<img align="left" alt="Django" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"/>](https://www.djangoproject.com/)
-[<img align="left" alt="Django" width="40px" src="https://www.curso-de-java.mx/images/curso-django.png"/>](https://www.djangoproject.com/)
+[<img align="left" alt="Django" width="40px" src="https://batisteo.gallerycdn.vsassets.io/extensions/batisteo/vscode-django/1.10.0/1645525785595/Microsoft.VisualStudio.Services.Icons.Default"/>](https://www.djangoproject.com/)
 [<img align="left" alt="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />](https://www.php.net/)
 [<img align="left" alt="Python" width="40px" src="https://www.aldw.com.es/wp-content/uploads/2022/07/Laravel-Madrid.png" />](https://www.python.org/)
 <br>
