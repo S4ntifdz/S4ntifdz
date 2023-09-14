@@ -1,7 +1,10 @@
 # ¡Hola! 👋 Soy Santiago Fernández
 
-## Sobre mí
-Soy un estudiante de ingeniería en sistemas apasionado por el desarrollo de software. Actualmente, me estoy enfocando en el desarrollo backend y estoy en camino de convertirme en un desarrollador fullstack.
+## Estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=S4ntifdz&show_icons=true&count_private=true)
+
+## Lenguajes de programación
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ntifdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Experiencia
 - 💻 Estudiante de Ingeniería en Sistemas
@@ -9,8 +12,8 @@ Soy un estudiante de ingeniería en sistemas apasionado por el desarrollo de sof
 - 🚀 Estudiando PHP para ampliar mis habilidades
 
 ## Contacto
-- 📧 Email: tu@email.com
-- 🔗 LinkedIn: [Santiago Fernández](https://www.linkedin.com/in/tuperfil/)
-- 🌐 Sitio web: [www.tusitio.com](https://www.tusitio.com)
+- 📧 Email: santiago.fernandez.utn@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/santiago-fernandez-7ba514274
+<!-- - 🌐 Sitio web: [www.tusitio.com](https://www.tusitio.com) -> 
 
 
