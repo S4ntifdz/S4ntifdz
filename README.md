@@ -1,7 +1,8 @@
 # ¡Hola! 👋 Soy Santiago Fernández
 
-## Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=S4ntifdz&show_icons=true&count_private=true)
+![Lenguajes de programación](https://img.shields.io/badge/Python-Intermediate-blue?style=for-the-badge&logo=python)
+![Lenguajes de programación](https://img.shields.io/badge/Django-Intermediate-green?style=for-the-badge&logo=django)
+![Lenguajes de programación](https://img.shields.io/badge/PHP-Beginner-orange?style=for-the-badge&logo=php)
 
 ## Lenguajes de programación
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ntifdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
