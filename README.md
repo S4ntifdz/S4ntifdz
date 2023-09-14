@@ -4,7 +4,7 @@
 
 [<img align="left" alt="Python" width="40px" src="URL_DEL_ICONO_DE_PYTHON" />](https://www.python.org/)
 [<img align="left" alt="Django" width="40px" src="URL_DEL_ICONO_DE_DJANGO" />](https://www.djangoproject.com/)
-[<img align="left" alt="PHP" width="40px" src="https://w7.pngwing.com/pngs/163/513/png-transparent-php-logos-and-brands-line-filled-icon.png" />](https://www.php.net/)
+[<img align="left" alt="PHP" width="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcV81DG9S1REdH_QdRhHkEyvXEwOlmiXZxTg&usqp=CAU" />](https://www.php.net/)
 
 ## Lenguajes de programación
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S4ntifdz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
