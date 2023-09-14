@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Santiago Fernández
+# Hola!
 
 ### Conocimientos
 
@@ -12,13 +12,7 @@
 <br>
 
 
-## Experiencia
-- 💻 Estudiante de Ingeniería en Sistemas
-- 🐍 Conocimiento en Python y Django
-- 🚀 Estudiando PHP para ampliar mis habilidades
-- 📐 En mi tiempo libre estudio Flutter & Dart
-
-## Contacto
+## 📎 Contacto
 - 📧 Email: santiago.fernandez.utn@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/santiago-fernandez-7ba514274
 <!-- - 🌐 Sitio web: [www.tusitio.com](https://www.tusitio.com) -> 
