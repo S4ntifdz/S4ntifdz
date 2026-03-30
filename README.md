@@ -1,9 +1,9 @@
-Creador de https://comandaya.app/es
-Plataforma para el mercado gastronómico que ya cuenta con casos de éxito en Paraguay y Argentina.
+### Desarrollador de Software | Estudiante de Ingeniería en Sistemas y Lic. en Ciberdefensa
 
+* Creador de **[ComandaYa](https://comandaya.app/es)** -> Sistema gastronómico con casos de éxito en 🇦🇷 y 🇵🇾 
+* **[LinearMaps](https://linearmaps.com)**
+  
 ## 📎 Contacto
-- 📧 Email: santiago.fernandez.utn@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/santiago-fernandez-7ba514274
- 
-
+* 📧 Email: santiago.fernandez.utn@gmail.com
+* 🔗 LinkedIn: www.linkedin.com/in/santiago-fernandez-7ba514274
 
