@@ -1,6 +1,6 @@
 ### Desarrollador de Software | Estudiante de Ingeniería en Sistemas y Lic. en Ciberdefensa
 
-* Creador de **[ComandaYa](https://comandaya.app/es)** -> Sistema gastronómico con casos de éxito en 🇦🇷 y 🇵🇾 
+* Creador de **[ComandaYa](https://comandaya.app/es)** 
 * **[LinearMaps](https://linearmaps.com)**
   
 ## 📎 Contacto
